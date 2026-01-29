@@ -39,7 +39,7 @@ This repository contains a **RESTful API for an E-commerce application** built w
 6. Start the development server:
    ```bash
     php artisan serve
-# Your API will be available at http://localhost:8000/api.
+
 ## API Endpoints
 
 | Method | Endpoint          | Description           |
